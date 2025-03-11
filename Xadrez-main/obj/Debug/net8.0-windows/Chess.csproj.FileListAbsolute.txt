@@ -1,0 +1,15 @@
+C:\Users\McKay\Chess\bin\Debug\net8.0-windows\Chess.exe
+C:\Users\McKay\Chess\bin\Debug\net8.0-windows\Chess.deps.json
+C:\Users\McKay\Chess\bin\Debug\net8.0-windows\Chess.runtimeconfig.json
+C:\Users\McKay\Chess\bin\Debug\net8.0-windows\Chess.dll
+C:\Users\McKay\Chess\bin\Debug\net8.0-windows\Chess.pdb
+C:\Users\McKay\Chess\obj\Debug\net8.0-windows\Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\McKay\Chess\obj\Debug\net8.0-windows\Chess.AssemblyInfoInputs.cache
+C:\Users\McKay\Chess\obj\Debug\net8.0-windows\Chess.AssemblyInfo.cs
+C:\Users\McKay\Chess\obj\Debug\net8.0-windows\Chess.csproj.CoreCompileInputs.cache
+C:\Users\McKay\Chess\obj\Debug\net8.0-windows\Chess.sourcelink.json
+C:\Users\McKay\Chess\obj\Debug\net8.0-windows\Chess.dll
+C:\Users\McKay\Chess\obj\Debug\net8.0-windows\refint\Chess.dll
+C:\Users\McKay\Chess\obj\Debug\net8.0-windows\Chess.pdb
+C:\Users\McKay\Chess\obj\Debug\net8.0-windows\Chess.genruntimeconfig.cache
+C:\Users\McKay\Chess\obj\Debug\net8.0-windows\ref\Chess.dll
